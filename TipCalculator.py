@@ -1,3 +1,5 @@
+# This is a tip calculator
+
 print("Welcome to the tip calculator.\n")
 bill = input("What was the total bill? $")
 percentage = input("\nWhat percentage tip would you like to give? 10, 12, or 15?\n")

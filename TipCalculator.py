@@ -9,3 +9,4 @@ tip_costs = (bill / 100) * tip
 final_bill = bill + tip_costs
 costs_per_person = round(float(final_bill) / float(people), 2)
 print(f"\nEach person should pay:\n€{costs_per_person}")
+
